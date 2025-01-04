@@ -1,1 +1,0 @@
-# ClinicManagementSys-Soln
